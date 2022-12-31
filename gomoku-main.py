@@ -15,8 +15,8 @@ COLUMN = 15
 ROW = 15
 
 list1 = []  # AI
-list2 = []  # human
-list3 = []  # all
+list2 = []  # Human
+list3 = []  # All
 
 list_all = []  # 整个棋盘的点
 next_point = [0, 0]  # AI下一步最应该下的位置
